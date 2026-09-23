@@ -1,0 +1,2 @@
+# runtime requirements for etl-pipeline-runner
+# (kept empty on purpose: stdlib only)
