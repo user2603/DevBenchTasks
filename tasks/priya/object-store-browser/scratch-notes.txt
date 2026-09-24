@@ -1,0 +1,2 @@
+scratch notes for object-store-browser
+do not delete this file
