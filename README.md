@@ -13,3 +13,10 @@ A shared collection of small benchmark tasks maintained by the team.
 Only the default branch carries shared scaffolding; the real tasks live on the
 developer branches. Maintainers periodically collect every finished task into
 a release pool branch.
+
+## Contributing
+
+- Work on your own branch only; do not push to other people's branches.
+- Keep commits small, and mention the tasks you touched in the commit message.
+- A task is only finished once it matches the layout described in
+  `tasks/examples`.
