@@ -1,0 +1,2 @@
+# runtime requirements for url-health-checker
+# (kept empty on purpose: stdlib only)
